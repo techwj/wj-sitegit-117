@@ -1,0 +1,59 @@
+{
+  "siteId": "hydroponic-plant-tutorial",
+  "generatedAt": "2026-06-04T11:35:53.075972",
+  "categories": [
+    "beginner-hydroponic-plant-tutorial",
+    "advanced-hydroponic-plant-tutorial",
+    "tips-hydroponic-plant-tutorial",
+    "history-hydroponic-plant-tutorial",
+    "trending-hydroponic-plant-tutorial",
+    "tutorials-hydroponic-plant-tutorial"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-hydroponic-plant-tutorial",
+      "category_name": "Beginner Hydroponic Plant Tutorial"
+    },
+    {
+      "category_slug": "advanced-hydroponic-plant-tutorial",
+      "category_name": "Advanced Hydroponic Plant Tutorial"
+    },
+    {
+      "category_slug": "tips-hydroponic-plant-tutorial",
+      "category_name": "Hydroponic Plant Tutorial Tips"
+    },
+    {
+      "category_slug": "history-hydroponic-plant-tutorial",
+      "category_name": "Hydroponic Plant Tutorial History"
+    },
+    {
+      "category_slug": "trending-hydroponic-plant-tutorial",
+      "category_name": "Trending Hydroponic Plant Tutorial"
+    },
+    {
+      "category_slug": "tutorials-hydroponic-plant-tutorial",
+      "category_name": "Hydroponic Plant Tutorial Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "hydroponic-plant-tutorial",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Hydroponic Plant Tutorial Central",
+    "articles_per_row": 3
+  }
+}

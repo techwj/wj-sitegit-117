@@ -1,0 +1,88 @@
+# Validation Report - hydroponic-plant-tutorial
+
+Generated: 2026-06-04T11:35:53.075432
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Hydroponic Plant Tutorial
+- ✓ Article word count OK: Beginner Hydroponic Plant Tutorial: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Hydroponic Plant Tutorial
+- ✓ Article word count OK: Beginner Hydroponic Plant Tutorial Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Hydroponic Plant Tutorial
+- ✓ Article word count OK: Beginner Hydroponic Plant Tutorial in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Hydroponic Plant Tutorial
+- ✓ Article word count OK: Common Mistakes in Beginner Hydroponic Plant Tutorial
+- ✓ Article word count OK: Beginner Hydroponic Plant Tutorial for Beginners
+- ✓ Article word count OK: Advanced Beginner Hydroponic Plant Tutorial Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Hydroponic Plant Tutorial
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Hydroponic Plant Tutorial
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Hydroponic Plant Tutorial
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Hydroponic Plant Tutorial
+- ✓ Article word count OK: Common Mistakes in Advanced Hydroponic Plant Tutorial
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial for Beginners
+- ✓ Article word count OK: Advanced Advanced Hydroponic Plant Tutorial Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hydroponic Plant Tutorial Tips
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hydroponic Plant Tutorial Tips
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Hydroponic Plant Tutorial Tips
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Hydroponic Plant Tutorial Tips
+- ✓ Article word count OK: Common Mistakes in Hydroponic Plant Tutorial Tips
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tips for Beginners
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hydroponic Plant Tutorial History
+- ✓ Article word count OK: Hydroponic Plant Tutorial History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hydroponic Plant Tutorial History
+- ✓ Article word count OK: Hydroponic Plant Tutorial History Tips and Best Practices
+- ✓ Article word count OK: The History of Hydroponic Plant Tutorial History
+- ✓ Article word count OK: Hydroponic Plant Tutorial History in 2026: Current Trends
+- ✓ Article word count OK: Future of Hydroponic Plant Tutorial History
+- ✓ Article word count OK: Common Mistakes in Hydroponic Plant Tutorial History
+- ✓ Article word count OK: Hydroponic Plant Tutorial History for Beginners
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Hydroponic Plant Tutorial
+- ✓ Article word count OK: Trending Hydroponic Plant Tutorial: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Hydroponic Plant Tutorial
+- ✓ Article word count OK: Trending Hydroponic Plant Tutorial Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Hydroponic Plant Tutorial
+- ✓ Article word count OK: Trending Hydroponic Plant Tutorial in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Hydroponic Plant Tutorial
+- ✓ Article word count OK: Common Mistakes in Trending Hydroponic Plant Tutorial
+- ✓ Article word count OK: Trending Hydroponic Plant Tutorial for Beginners
+- ✓ Article word count OK: Advanced Trending Hydroponic Plant Tutorial Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hydroponic Plant Tutorial Tutorials
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hydroponic Plant Tutorial Tutorials
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Hydroponic Plant Tutorial Tutorials
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Hydroponic Plant Tutorial Tutorials
+- ✓ Article word count OK: Common Mistakes in Hydroponic Plant Tutorial Tutorials
+- ✓ Article word count OK: Hydroponic Plant Tutorial Tutorials for Beginners
+- ✓ Article word count OK: Advanced Hydroponic Plant Tutorial Tutorials Techniques
+- ✓ Ad configuration validated
